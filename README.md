@@ -20,7 +20,7 @@ Follow these steps to set up and run the app locally.
 ### Installation
 1. Clone the repository
    ```sh
-   git clone https://github.com/maqibraja/ReactNative-App.git
+   git clone https://github.com/maqibraja/React-Native-App
 2. Navigate to the project directory
 
 * cd ReactNative-App
